@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working with Real World Data
+- 🌱 I’m currently learning about applying Classification & Regression Models in reality
 <!--
 **superlongnameguy/superlongnameguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
