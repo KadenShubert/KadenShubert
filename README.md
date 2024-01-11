@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Real World Project
-- 🌱 I’m currently learning about applying Classification and Regression Models
-- ⚡ Fun fact: I love reading through well-documented libraries
+- 🔭 I’m currently working on my Machine Learning Analyst Diploma
+- 🌱 I’m currently learning about Logistic Regression, SVMs, and Neural Networks!
+- ⚡ Fun fact: I love challenging myself when working on a project especially hard challenges like trying to code with a cat on my keyboard are my favorite!
 
 <!--
-**superlongnameguy/superlongnameguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KadenShubert/KadenShubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
