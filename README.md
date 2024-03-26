@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Machine Learning Analyst Diploma
 - 🌱 I’m currently learning about Logistic Regression, SVMs, and Neural Networks!
-- ⚡ Fun fact: I love challenging myself when working on a project especially hard challenges like trying to code with a cat on my keyboard are my favorite!
+<!-- - ⚡ Fun fact: I love challenging myself when working on a project especially hard challenges like trying to code with a cat on my keyboard! -->
 
 <!--
 **KadenShubert/KadenShubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
