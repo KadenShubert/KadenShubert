@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Machine Learning Analyst Diploma
-- 🌱 I’m currently learning about Logistic Regression, SVMs, and Neural Networks!
+- 🔭 I’m currently working on improving my previous projects!
+<!-- - 🌱 I’m currently learning about 
 <!-- - ⚡ Fun fact: I love challenging myself when working on a project especially hard challenges like trying to code with a cat on my keyboard! -->
 
 <!--
