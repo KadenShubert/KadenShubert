@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on improving my previous projects!
+- 🔭 I’m currently looking for somewhere I can contribute my machine learning knowledge and continue to grow!
 <!-- - 🌱 I’m currently learning about 
 <!-- - ⚡ Fun fact: I love challenging myself when working on a project especially hard challenges like trying to code with a cat on my keyboard! -->
 
